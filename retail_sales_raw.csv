@@ -1,0 +1,21 @@
+Order_ID,Product,Quantity,Sales,Order_Date_Raw
+ORD-1001,Laptop Stand,2,39.98,2026-01-03
+ORD-1002,Wireless Mouse,1,18.99,01/04/2026
+ORD-1003,USB-C Cable,3,29.97,5-Jan-2026
+ORD-1004,Notebook,5,14.95,2026/01/06
+ORD-1005,Desk Lamp,1,24.5,07-01-2026
+ORD-1006,Keyboard,2,79.98,"Jan 8, 2026"
+ORD-1007,Monitor,1,179.99,2026-01-09
+ORD-1008,Headphones,2,89.98,10/01/2026
+ORD-1009,Webcam,1,54.99,2026.01.11
+ORD-1010,Mouse Pad,4,31.96,12-Jan-26
+ORD-1011,Laptop Bag,1,34.99,2026-13-01
+ORD-1012,Phone Stand,2,25.98,31/02/2026
+ORD-1013,HDMI Cable,3,20.97,not-a-date
+ORD-1014,Power Bank,1,45.0,
+ORD-1015,Pen Set,6,11.94,2026-01-15
+ORD-1016,Water Bottle,2,27.98,16/01/2026
+ORD-1017,Sticky Notes,5,9.95,17 Jan 2026
+ORD-1018,Desk Organizer,1,22.49,2026-01-18
+ORD-1019,Phone Charger,2,39.98,01/19/2026
+ORD-1020,File Folder,3,8.97,2026/01/20

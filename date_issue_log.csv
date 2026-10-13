@@ -1,0 +1,5 @@
+Order_ID,Order_Date_Raw,Date_Status,Issue_Details
+ORD-1011,2026-13-01,Invalid date,Could not parse the value as a valid calendar date.
+ORD-1012,31/02/2026,Invalid date,Could not parse the value as a valid calendar date.
+ORD-1013,not-a-date,Invalid date,Could not parse the value as a valid calendar date.
+ORD-1014,,Missing date,Date value is blank.
